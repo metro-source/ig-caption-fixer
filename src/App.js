@@ -1,24 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
+import { FormattedMessage } from "react-intl";
+import TextInput from './TextInput';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Caption Fixer</h1>
       </header>
+
+      <main>
+        <div className='copy'>
+          <FormattedMessage id="copy"  />
+        </div>
+        <TextInput />
+      </main>
     </div>
   );
 }

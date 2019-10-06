@@ -1,0 +1,14 @@
+{
+    "en": {
+        "srcTextTitle": "Enter your original caption here",
+        "fixedTextTitle": "Copy your fixed caption here",
+        "inputPlaceholder": "Type something!",
+        "copy": "Tired of not being able to put line breaks in your Instagram post captions? With this tool you can insert new lines in your Instagram posts, simply enter and copy your caption below"
+    },
+    "es": {
+        "srcTextTitle": "Ingresa tu caption aquí",
+        "fixedTextTitle": "Copia tu caption acá",
+        "inputPlaceholder": "Escribe algo!",
+        "copy": "Cansado de no poder poner saltos de línea en tus publicaciones de Instagram? Con esta herramienta puedes insertar saltos de línea en el caption de tus posts de Instagram, solo copia y pega tu texto en la sección de abajo"
+    }
+}
