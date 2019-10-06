@@ -1,6 +1,6 @@
 {
-  "short_name": "Caption fixer",
-  "name": "Metro IG Caption fixer",
+  "short_name": "Caption Fixer",
+  "name": "Metro IG Caption Fixer",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "tile.png",
+      "src": "icon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "tite.png",
+      "src": "tile.png",
       "type": "image/png",
       "sizes": "512x512"
     }
