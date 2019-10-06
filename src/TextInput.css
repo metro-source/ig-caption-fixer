@@ -14,15 +14,20 @@
     user-select: none;
 }
 
+@media screen and (min-width: 500px) {
+    .TextInput {
+        width: 500px;
+    }
+}
+
 .TextInput {
-    width: 500px;
     min-height: 260px;
 }
 
 .TextInput textarea {
     resize: vertical;
     height: 260px;
-    width: 500px;
+    width: 100%;
     padding: 5px;
     padding-top: calc(2em + 5px);
 
