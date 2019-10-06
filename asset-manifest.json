@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ig-caption-fixer/static/css/main.a3dc3831.chunk.css",
+    "main.js": "/ig-caption-fixer/static/js/main.72af945d.chunk.js",
+    "main.js.map": "/ig-caption-fixer/static/js/main.72af945d.chunk.js.map",
+    "runtime-main.js": "/ig-caption-fixer/static/js/runtime-main.68fab0b6.js",
+    "runtime-main.js.map": "/ig-caption-fixer/static/js/runtime-main.68fab0b6.js.map",
+    "static/js/2.665014fb.chunk.js": "/ig-caption-fixer/static/js/2.665014fb.chunk.js",
+    "static/js/2.665014fb.chunk.js.map": "/ig-caption-fixer/static/js/2.665014fb.chunk.js.map",
+    "index.html": "/ig-caption-fixer/index.html",
+    "precache-manifest.1ac33bd5ce4ec8e557e81ada96b1d439.js": "/ig-caption-fixer/precache-manifest.1ac33bd5ce4ec8e557e81ada96b1d439.js",
+    "service-worker.js": "/ig-caption-fixer/service-worker.js",
+    "static/css/main.a3dc3831.chunk.css.map": "/ig-caption-fixer/static/css/main.a3dc3831.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68fab0b6.js",
+    "static/js/2.665014fb.chunk.js",
+    "static/css/main.a3dc3831.chunk.css",
+    "static/js/main.72af945d.chunk.js"
+  ]
+}
