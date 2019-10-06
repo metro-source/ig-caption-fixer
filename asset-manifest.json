@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d414563c.chunk.css",
-    "main.js": "/static/js/main.1f576ee2.chunk.js",
-    "main.js.map": "/static/js/main.1f576ee2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0cea4deb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0cea4deb.js.map",
-    "static/js/2.665014fb.chunk.js": "/static/js/2.665014fb.chunk.js",
-    "static/js/2.665014fb.chunk.js.map": "/static/js/2.665014fb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.77d967560a8ebaff8cb53b13bc6e9d37.js": "/precache-manifest.77d967560a8ebaff8cb53b13bc6e9d37.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d414563c.chunk.css.map": "/static/css/main.d414563c.chunk.css.map"
+    "main.css": "/ig-caption-fixer/static/css/main.d414563c.chunk.css",
+    "main.js": "/ig-caption-fixer/static/js/main.72af945d.chunk.js",
+    "main.js.map": "/ig-caption-fixer/static/js/main.72af945d.chunk.js.map",
+    "runtime-main.js": "/ig-caption-fixer/static/js/runtime-main.68fab0b6.js",
+    "runtime-main.js.map": "/ig-caption-fixer/static/js/runtime-main.68fab0b6.js.map",
+    "static/js/2.665014fb.chunk.js": "/ig-caption-fixer/static/js/2.665014fb.chunk.js",
+    "static/js/2.665014fb.chunk.js.map": "/ig-caption-fixer/static/js/2.665014fb.chunk.js.map",
+    "index.html": "/ig-caption-fixer/index.html",
+    "precache-manifest.3b7a1572be9d90d0a2999accca2141df.js": "/ig-caption-fixer/precache-manifest.3b7a1572be9d90d0a2999accca2141df.js",
+    "service-worker.js": "/ig-caption-fixer/service-worker.js",
+    "static/css/main.d414563c.chunk.css.map": "/ig-caption-fixer/static/css/main.d414563c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cea4deb.js",
+    "static/js/runtime-main.68fab0b6.js",
     "static/js/2.665014fb.chunk.js",
     "static/css/main.d414563c.chunk.css",
-    "static/js/main.1f576ee2.chunk.js"
+    "static/js/main.72af945d.chunk.js"
   ]
 }
